@@ -1,2 +1,20 @@
-# gallery
- 
+# Images gallery
+
+Connecting a react app to firebase using its storage and firestore to make a gallery of uploaded images
+
+# Usage
+
+```
+# Install dependencies
+npm install
+```
+
+```
+# Run app
+npm start
+```
+
+```
+# Build app
+npm run build
+```
